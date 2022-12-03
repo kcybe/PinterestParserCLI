@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+import argparse
 import requests
 from bs4 import BeautifulSoup
 
